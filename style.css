@@ -614,7 +614,7 @@ img { max-width: 100%; display: block; }
 .lightning .bolt {
   position: absolute;
   top: -2vh;
-  height: 74vh;
+  height: 100vh;
   width: 110px;
   fill: none;
   stroke: #ffffff;

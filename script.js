@@ -87,9 +87,8 @@
   /* ---------- TYPEWRITER ---------- */
   const roles = [
     "Azure Data Engineer",
-    "Microsoft Fabric Specialist",
+    "Microsoft Fabric Engineer",
     "Lakehouse Architect",
-    "Power BI Semantic Modeler",
     "Legacy ETL Slayer ⚔",
     "Data Netrunner 🌐",
     "Agentic AI Builder",
