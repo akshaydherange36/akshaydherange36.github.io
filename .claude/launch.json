@@ -6,6 +6,12 @@
       "runtimeExecutable": "python",
       "runtimeArgs": ["-m", "http.server", "8765"],
       "port": 8765
+    },
+    {
+      "name": "jmcc-web",
+      "runtimeExecutable": "cmd",
+      "runtimeArgs": ["/c", "cd /d C:\\Users\\AK\\Downloads\\ChickenCentre\\web && npm run dev"],
+      "port": 3000
     }
   ]
 }
