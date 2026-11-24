@@ -1075,6 +1075,7 @@ img { max-width: 100%; display: block; }
 .skill-card.thunder { --accent: var(--thunder); }
 .skill-card.mist    { --accent: #b08ae8; }
 .skill-card.stone   { --accent: #8d99ae; }
+.skill-card.wind    { --accent: #35d6a4; }
 [data-theme="corporate"] .skill-card { --accent: var(--water); }
 
 .skill-top { display: flex; align-items: center; gap: 0.95rem; margin-bottom: 1.1rem; }

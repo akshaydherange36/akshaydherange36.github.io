@@ -86,8 +86,9 @@
 
   /* ---------- TYPEWRITER ---------- */
   const roles = [
-    "Azure Data Engineer",
+    "Senior Data Engineer",
     "Microsoft Fabric Engineer",
+    "Real-Time Intelligence Engineer",
     "Lakehouse Architect",
     "Legacy ETL Slayer ⚔",
     "Data Netrunner 🌐",
